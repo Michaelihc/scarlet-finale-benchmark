@@ -1,0 +1,7 @@
+{
+  "source": "local benchmark artifacts",
+  "map": "SCP:SL 15.0 published lightweight export",
+  "music": "Final Action by \u897f\u8499Leonardo",
+  "candidateCodeUnmodified": true,
+  "hostOnlyChange": "Separate shared assets; memoized exact ground-height queries"
+}
